@@ -82,18 +82,22 @@
 
 # Connect
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/PratyushRajMishra">
-<img src="https://skillicons.dev/icons?i=github&theme=light" />
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+<a href="https://linkedin.com/in/your-linkedin-username">
+<img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://x.com">
-<img src="https://skillicons.dev/icons?i=twitter&theme=light" />
+<a href="https://x.com/your-x-username">
+<img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-</div>
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
