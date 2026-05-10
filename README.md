@@ -12,7 +12,7 @@
 
 <img src="https://img.shields.io/github/stars/PratyushRajMishra?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=000000&label=Total%20Stars&labelColor=ffffff&color=eaeaea" />
 
-<img src="https://komarev.com/ghpvc/?username=PratyushRajMishra&style=for-the-badge&label=Profile%20Views&labelColor=ffffff&color=eaeaea" />
+<img src="https://komarev.com/ghpvc/?username=PratyushRajMishra&style=for-the-badge&logo=github&logoColor=000000&label=Profile%20Views&labelColor=ffffff&color=eaeaea" />
 
 </p>
 
