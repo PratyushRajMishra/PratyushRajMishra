@@ -8,11 +8,11 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/PratyushRajMishra?style=for-the-badge&logo=github&logoColor=000000&label=Followers&labelColor=ffffff&color=eaeaea" />
+<img src="https://img.shields.io/github/followers/PratyushRajMishra?style=for-the-badge&logo=github&logoColor=ffffff&label=Followers&labelColor=0f172a&color=2563eb" />
 
-<img src="https://img.shields.io/github/stars/PratyushRajMishra?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=000000&label=Total%20Stars&labelColor=ffffff&color=eaeaea" />
+<img src="https://img.shields.io/github/stars/PratyushRajMishra?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=ffffff&label=Total%20Stars&labelColor=0f172a&color=7c3aed" />
 
-<img src="https://komarev.com/ghpvc/?username=PratyushRajMishra&style=for-the-badge&logo=github&logoColor=000000&label=Profile%20Views&labelColor=ffffff&color=eaeaea" />
+<img src="https://komarev.com/ghpvc/?username=PratyushRajMishra&style=for-the-badge&logo=github&logoColor=ffffff&label=Profile%20Views&labelColor=0f172a&color=059669" />
 
 </p>
 
