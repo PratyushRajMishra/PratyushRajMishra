@@ -6,15 +6,15 @@
 
 <br/>
 
-<a href="https://github.com/PratyushRajMishra">
-<img src="https://img.shields.io/github/followers/PratyushRajMishra?style=flat-square&labelColor=white&color=black" />
-</a>
+<p align="center">
 
-<a href="https://github.com/PratyushRajMishra">
-<img src="https://img.shields.io/github/stars/PratyushRajMishra?affiliations=OWNER&style=flat-square&labelColor=white&color=black" />
-</a>
+<img src="https://img.shields.io/github/followers/PratyushRajMishra?style=for-the-badge&logo=github&label=Followers&labelColor=ffffff&color=ffffff&logoColor=000000" />
 
-<img src="https://komarev.com/ghpvc/?username=PratyushRajMishra&style=flat-square&labelColor=white&color=black" />
+<img src="https://img.shields.io/github/stars/PratyushRajMishra?style=for-the-badge&logo=github&label=Stars&labelColor=ffffff&color=ffffff&logoColor=000000" />
+
+<img src="https://komarev.com/ghpvc/?username=PratyushRajMishra&style=for-the-badge&label=Profile+Views&labelColor=ffffff&color=ffffff" />
+
+</p>
 
 </div>
 
