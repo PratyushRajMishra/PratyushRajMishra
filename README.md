@@ -7,14 +7,14 @@
 <br/>
 
 <a href="https://github.com/PratyushRajMishra">
-<img src="https://img.shields.io/github/followers/PratyushRajMishra?style=flat-square" />
+<img src="https://img.shields.io/github/followers/PratyushRajMishra?style=flat-square&labelColor=white&color=black" />
 </a>
 
 <a href="https://github.com/PratyushRajMishra">
-<img src="https://img.shields.io/github/stars/PratyushRajMishra?affiliations=OWNER&style=flat-square" />
+<img src="https://img.shields.io/github/stars/PratyushRajMishra?affiliations=OWNER&style=flat-square&labelColor=white&color=black" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=PratyushRajMishra&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=PratyushRajMishra&style=flat-square&labelColor=white&color=black" />
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,nodejs,express,mongodb,firebase,js,ts,tailwind,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,nodejs,express,mongodb,firebase,js,ts,tailwind,git,github,vscode,figma&theme=light" />
 
 </div>
 
@@ -34,9 +34,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PratyushRajMishra&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PratyushRajMishra&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushRajMishra&layout=compact&hide_border=true" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PratyushRajMishra&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000" />
 
 </div>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=PratyushRajMishra&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=PratyushRajMishra&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" />
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PratyushRajMishra&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PratyushRajMishra&bg_color=ffffff&color=000000&line=222222&point=000000&hide_border=true" />
 
 </div>
 
@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PratyushRajMishra&no-frame=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=PratyushRajMishra&theme=flat&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -82,7 +82,7 @@
 
 ---
 
-# Featured Work
+# Featured Projects
 
 <table>
 <tr>
@@ -90,7 +90,7 @@
 
 ### Loader Pro Kit
 
-Production-ready Flutter loading animations package with customizable UI and smooth animations.
+Production-ready Flutter loading animations package with smooth and customizable UI components.
 
 </td>
 
@@ -98,7 +98,7 @@ Production-ready Flutter loading animations package with customizable UI and smo
 
 ### First Run Kit
 
-Flutter onboarding and first-launch experience package with simple integration.
+Flutter onboarding and first-launch experience package with clean integration support.
 
 </td>
 </tr>
@@ -111,15 +111,15 @@ Flutter onboarding and first-launch experience package with simple integration.
 <div align="center">
 
 <a href="https://github.com/PratyushRajMishra">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github&theme=light" />
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
 </a>
 
 <a href="https://x.com">
-<img src="https://skillicons.dev/icons?i=twitter" />
+<img src="https://skillicons.dev/icons?i=twitter&theme=light" />
 </a>
 
 </div>
