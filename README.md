@@ -8,15 +8,15 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/PratyushRajMishra?style=for-the-badge&logo=github&label=Followers&labelColor=ffffff&color=ffffff&logoColor=000000" />
+<img src="https://img.shields.io/badge/Followers-black?style=for-the-badge&logo=github&logoColor=black&labelColor=white&color=white" />
+<img src="https://img.shields.io/github/followers/PratyushRajMishra?style=for-the-badge&labelColor=white&color=white" />
 
-<img src="https://img.shields.io/github/stars/PratyushRajMishra?style=for-the-badge&logo=github&label=Stars&labelColor=ffffff&color=ffffff&logoColor=000000" />
+<img src="https://img.shields.io/badge/Stars-black?style=for-the-badge&logo=github&logoColor=black&labelColor=white&color=white" />
+<img src="https://img.shields.io/github/stars/PratyushRajMishra?affiliations=OWNER&style=for-the-badge&labelColor=white&color=white" />
 
-<img src="https://komarev.com/ghpvc/?username=PratyushRajMishra&style=for-the-badge&label=Profile+Views&labelColor=ffffff&color=ffffff" />
+<img src="https://komarev.com/ghpvc/?username=PratyushRajMishra&style=for-the-badge&label=Profile+Views&labelColor=white&color=white" />
 
 </p>
-
-</div>
 
 ---
 
