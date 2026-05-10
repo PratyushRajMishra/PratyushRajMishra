@@ -1,48 +1,50 @@
 <div align="center">
 
-# Hi 👋, I'm Pratyush Mishra
+# Pratyush Mishra
 
-### 🚀 Flutter & Full Stack Developer  
-### 🎨 UI Animation Specialist • 📦 Open Source Contributor • 💡 Building Modern Digital Experiences
+### Flutter Developer • Full Stack Engineer • Open Source Contributor
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Open+Source+Contributor;React+%26+Node.js+Developer;Building+Beautiful+Apps;Creating+Reusable+Flutter+Packages" alt="Typing SVG" />
+<p align="center">
+Building scalable mobile applications, modern web platforms, and reusable developer tools.
+</p>
 
-<br/>
-
+<p align="center">
 <a href="https://github.com/PratyushRajMishra">
-  <img src="https://img.shields.io/github/followers/PratyushRajMishra?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/PratyushRajMishra?style=flat-square&color=black" />
 </a>
 
 <a href="https://github.com/PratyushRajMishra">
-  <img src="https://img.shields.io/github/stars/PratyushRajMishra?affiliations=OWNER&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/PratyushRajMishra?affiliations=OWNER&style=flat-square&color=black" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=PratyushRajMishra&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=PratyushRajMishra&style=flat-square&color=black" />
+
+</p>
 
 </div>
 
 ---
 
-# 💫 About Me
+# About
 
-```yaml
-Name: Pratyush Mishra
-Location: India
-Role: Flutter & Full Stack Developer
-Experience: Mobile & Web Development
-Speciality:
-  - Flutter Animations
-  - UI/UX Design
-  - Full Stack Applications
-  - Open Source Contributions
-  - Reusable Package Development
+I am a software developer focused on Flutter, React, Node.js, and modern UI engineering.
 
-Currently Working On:
-  - Flutter Packages
-  - Advanced UI Components
-  - Modern Web Apps
+I build performant mobile applications, scalable web platforms, and reusable developer tools with clean architecture and polished user experiences.
 
-Learning:
-  - Scalable Backend Architecture
-  - System Design
-  - Performance Optimization
+My primary interests include:
+
+- Flutter application development
+- UI animation systems
+- Full stack web applications
+- Open source contributions
+- Developer tooling and reusable packages
+- Scalable frontend architecture
+
+---
+
+# Tech Stack
+
+### Languages
+
+```txt
+Dart • JavaScript • TypeScript • HTML • CSS
