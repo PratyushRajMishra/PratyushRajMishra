@@ -2,7 +2,7 @@
 
 # 𝙋𝙧𝙖𝙩𝙮𝙪𝙨𝙝 𝙈𝙞𝙨𝙝𝙧𝙖
 
-### Flutter Developer • Full Stack Engineer • Open Source Contributor
+#### Flutter Developer • Full Stack Engineer • Open Source Contributor
 
 <br/>
 
