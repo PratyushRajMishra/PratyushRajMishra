@@ -82,30 +82,6 @@
 
 ---
 
-# Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### Loader Pro Kit
-
-Production-ready Flutter loading animations package with smooth and customizable UI components.
-
-</td>
-
-<td width="50%">
-
-### First Run Kit
-
-Flutter onboarding and first-launch experience package with clean integration support.
-
-</td>
-</tr>
-</table>
-
----
-
 # Connect
 
 <div align="center">
