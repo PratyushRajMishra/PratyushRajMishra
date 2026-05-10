@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pratyush Mishra
+# 𝙋𝙧𝙖𝙩𝙮𝙪𝙨𝙝 𝙈𝙞𝙨𝙝𝙧𝙖
 
 ### Flutter Developer • Full Stack Engineer • Open Source Contributor
 
@@ -16,11 +16,13 @@
 
 </p>
 
+</div>
+
 ---
 
-# Tech Stack
+### Tech Stack
 
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,nodejs,express,mongodb,firebase,js,ts,tailwind,git,github,vscode,figma&theme=light" />
 
@@ -28,7 +30,7 @@
 
 ---
 
-# GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
 
@@ -40,7 +42,7 @@
 
 ---
 
-# Contribution Streak
+### Contribution Streak
 
 <div align="center">
 
@@ -50,7 +52,7 @@
 
 ---
 
-# Contribution Graph
+### Contribution Graph
 
 <div align="center">
 
@@ -60,7 +62,7 @@
 
 ---
 
-# GitHub Trophies
+### GitHub Trophies
 
 <div align="center">
 
@@ -70,7 +72,7 @@
 
 ---
 
-# Contribution Snake
+### Contribution Snake
 
 <div align="center">
 
@@ -80,9 +82,9 @@
 
 ---
 
-# Connect
+### Connect
 
-<p align="center">
+<p align="left">
 
 <a href="https://github.com/PratyushRajMishra">
 <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
