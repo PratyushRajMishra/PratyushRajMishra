@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # Pratyush Mishra
@@ -49,7 +48,7 @@ My primary interests include:
 
 ```txt
 Dart • JavaScript • TypeScript • HTML • CSS
-````
+
 
 ### Frontend
 
