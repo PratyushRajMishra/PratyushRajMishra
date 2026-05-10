@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**PratyushRajMishra/PratyushRajMishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Pratyush Mishra
 
-Here are some ideas to get you started:
+### 🚀 Flutter & Full Stack Developer  
+### 🎨 UI Animation Specialist • 📦 Open Source Contributor • 💡 Building Modern Digital Experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Open+Source+Contributor;React+%26+Node.js+Developer;Building+Beautiful+Apps;Creating+Reusable+Flutter+Packages" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/PratyushRajMishra">
+  <img src="https://img.shields.io/github/followers/PratyushRajMishra?label=Followers&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/PratyushRajMishra">
+  <img src="https://img.shields.io/github/stars/PratyushRajMishra?affiliations=OWNER&style=for-the-badge" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=PratyushRajMishra&style=for-the-badge" />
+
+</div>
+
+---
+
+# 💫 About Me
+
+```yaml
+Name: Pratyush Mishra
+Location: India
+Role: Flutter & Full Stack Developer
+Experience: Mobile & Web Development
+Speciality:
+  - Flutter Animations
+  - UI/UX Design
+  - Full Stack Applications
+  - Open Source Contributions
+  - Reusable Package Development
+
+Currently Working On:
+  - Flutter Packages
+  - Advanced UI Components
+  - Modern Web Apps
+
+Learning:
+  - Scalable Backend Architecture
+  - System Design
+  - Performance Optimization
